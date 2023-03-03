@@ -1,0 +1,5 @@
+﻿<linker>
+  <!-- Can be removed if CompiledBinding and no reflection are used -->
+  <assembly fullname="HOI4Launcher" preserve="All" />
+  <assembly fullname="Avalonia.Themes.Default" preserve="All" />
+</linker>
